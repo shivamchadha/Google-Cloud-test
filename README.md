@@ -9,4 +9,4 @@ https://us-central1-cloud-function-hw.cloudfunctions.net/addMessage
  run 
  `curl https://us-central1-cloud-function-hw.cloudfunctions.net/addMessage`
  
- in your command prompt.
+ in your command line.
